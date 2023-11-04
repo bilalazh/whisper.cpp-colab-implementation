@@ -140,4 +140,4 @@ whisper_print_timings:    total time =  3290.42 ms
 [Whisper.cpp Repository](https://github.com/ggerganov/whisper.cpp)
 
 # TODO: <a name = 'todo'></a>
-- add  readmme.md
+- transcribe any video from youtube
