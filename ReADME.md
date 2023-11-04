@@ -5,7 +5,7 @@ Purpose of this repo is to implement whisper.cpp on my own in google colab and s
 check  [Todo ](#todo) section for updates 
 
 ## Table of Contents: 
-[Setting up and Transcribing example snippet](#setup)
+ - [Setting up and Transcribing Example Snippet](#setup)
 
 ## Setting up and simple transcription demo <a name='setup' ></a> 
 
