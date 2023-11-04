@@ -2,7 +2,7 @@
 ## Goals and motivation : 
 Purpose of this repo is to implement whisper.cpp on my own in google colab and set it up for transcription and more use cases 
 
-check  [TODO] section for updates 
+check  [TODO](#TODO) section for updates 
 
 
 ## Setting up and simple transcription demo
