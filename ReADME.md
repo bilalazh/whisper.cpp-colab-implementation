@@ -2,7 +2,7 @@
 ## Goals and motivation : 
 Purpose of this repo is to implement whisper.cpp on my own in google colab and set it up for transcription and more use cases 
 
-check  [TODO](#TODO) section for updates 
+check  [TODO](#TODO:) section for updates 
 
 
 ## Setting up and simple transcription demo
@@ -137,5 +137,5 @@ whisper_print_timings:    total time =  3290.42 ms
 
 [Whisper.cpp Repository](https://github.com/ggerganov/whisper.cpp)
 
-TODO : 
+#TODO: 
 - add  readmme.md
